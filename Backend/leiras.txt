@@ -1,1 +1,5 @@
 okt 29 reggel 6ig
+
+
+backend------>server-side(Node) + echo-api collection(lekeresek)
+	----> Rest APi: docx/pdf
